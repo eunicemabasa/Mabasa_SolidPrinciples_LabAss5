@@ -6,4 +6,6 @@ A central class, OrderService, manages the overall workflow by coordinating thes
 
 Overall, the project highlights how applying SOLID principles improves code organization, scalability, and maintainability, making it suitable for real-world software development practices.
 
-#UML DIAGRAM
+## UML DIAGRAM 
+![Image]()
+
