@@ -7,5 +7,5 @@ A central class, OrderService, manages the overall workflow by coordinating thes
 Overall, the project highlights how applying SOLID principles improves code organization, scalability, and maintainability, making it suitable for real-world software development practices.
 
 ## UML DIAGRAM 
-![Image]()
+![Image](https://github.com/eunicemabasa/Mabasa_SolidPrinciples_LabAss5/blob/main/UML_Diagram.pdf)
 
